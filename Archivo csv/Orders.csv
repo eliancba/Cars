@@ -1,299 +1,299 @@
-ORDERNUMBER,ORDERDATE,STATUS,DAYS_SINCE_LASTORDER,CUSTOMERID
-10107,2018-02-24,Shipped,828,1.0
-10121,2018-05-07,Shipped,756,2.0
-10134,2018-07-01,Shipped,701,3.0
-10145,2018-08-25,Shipped,646,4.0
-10168,2018-10-28,Shipped,582,5.0
-10180,2018-11-11,Shipped,568,6.0
-10188,2018-11-18,Shipped,561,7.0
-10211,2019-01-15,Shipped,503,8.0
-10223,2019-02-20,Shipped,467,9.0
-10237,2019-04-05,Shipped,423,10.0
-10251,2019-05-18,Shipped,380,11.0
-10263,2019-06-28,Shipped,339,12.0
-10275,2019-07-23,Shipped,314,13.0
-10285,2019-08-27,Shipped,279,14.0
-10299,2019-09-30,Shipped,245,15.0
-10309,2019-10-15,Shipped,230,16.0
-10318,2019-11-02,Shipped,212,17.0
-10329,2019-11-15,Shipped,199,
-10341,2019-11-24,Shipped,190,18.0
-10361,2019-12-17,Shipped,167,19.0
-10375,2020-02-03,Shipped,119,
-10388,2020-03-03,Shipped,90,20.0
-10403,2020-04-08,Shipped,54,21.0
-10417,2020-05-13,Disputed,19,22.0
-10103,2018-01-29,Shipped,854,
-10112,2018-03-24,Shipped,800,23.0
-10126,2018-05-28,Shipped,735,24.0
-10140,2018-07-24,Shipped,678,
-10150,2018-09-19,Shipped,621,25.0
-10163,2018-10-20,Shipped,590,26.0
-10174,2018-11-06,Shipped,573,27.0
-10183,2018-11-13,Shipped,566,28.0
-10194,2018-11-25,Shipped,554,29.0
-10206,2018-12-05,Shipped,544,30.0
-10215,2019-01-29,Shipped,489,31.0
-10228,2019-03-10,Shipped,449,32.0
-10245,2019-05-04,Shipped,394,33.0
-10258,2019-06-15,Shipped,352,34.0
-10270,2019-07-19,Shipped,318,
-10280,2019-08-17,Shipped,289,35.0
-10291,2019-09-08,Shipped,267,36.0
-10304,2019-10-11,Shipped,234,37.0
-10312,2019-10-21,Shipped,224,38.0
-10322,2019-11-04,Shipped,210,39.0
-10347,2019-11-29,Shipped,185,
-10357,2019-12-10,Shipped,174,
-10369,2020-01-20,Shipped,133,40.0
-10391,2020-03-09,Shipped,84,41.0
-10411,2020-05-01,Shipped,31,42.0
-10424,2020-05-31,In Process,1,
-10120,2018-04-29,Shipped,764,
-10210,2019-01-12,Shipped,506,43.0
-10236,2019-04-03,Shipped,425,44.0
-10298,2019-09-27,Shipped,248,45.0
-10308,2019-10-15,Shipped,230,46.0
-10339,2019-11-23,Shipped,191,
-10374,2020-02-02,Shipped,120,
-10402,2020-04-07,Shipped,55,
-10362,2020-01-05,Shipped,148,
-10105,2018-02-11,Shipped,841,47.0
-10119,2018-04-28,Shipped,765,
-10129,2018-06-12,Shipped,720,48.0
-10143,2018-08-10,Shipped,661,49.0
-10155,2018-10-06,Shipped,604,
-10167,2018-10-23,Cancelled,587,
-10178,2018-11-08,Shipped,571,50.0
-10186,2018-11-14,Shipped,565,51.0
-10197,2018-11-26,Shipped,553,52.0
-10222,2019-02-19,Shipped,468,53.0
-10248,2019-05-07,Cancelled,391,
-10261,2019-06-17,Shipped,350,
-10273,2019-07-21,Shipped,316,54.0
-10283,2019-08-20,Shipped,286,55.0
-10295,2019-09-10,Shipped,265,56.0
-10307,2019-10-14,Shipped,231,
-10316,2019-11-01,Shipped,213,57.0
-10325,2019-11-05,Shipped,209,
-10337,2019-11-21,Shipped,193,
-10350,2019-12-02,Shipped,182,
-10359,2019-12-15,Shipped,169,
-10373,2020-01-31,Shipped,122,58.0
-10395,2020-03-17,Shipped,76,
-10400,2020-04-01,Shipped,61,59.0
-10414,2020-05-06,On Hold,26,
-10114,2018-04-01,Shipped,792,60.0
-10164,2018-10-21,Resolved,589,61.0
-10175,2018-11-06,Shipped,573,
-10207,2018-12-09,Shipped,540,62.0
-10217,2019-02-04,Shipped,483,63.0
-10229,2019-03-11,Shipped,448,
-10259,2019-06-15,Shipped,352,
-10281,2019-08-19,Shipped,287,
-10305,2019-10-13,Shipped,232,
-10313,2019-10-22,Shipped,223,
-10334,2019-11-19,On Hold,195,
-10370,2020-01-20,Shipped,133,
-10425,2020-05-31,In Process,1,
-10108,2018-03-03,Shipped,821,64.0
-10122,2018-05-08,Shipped,755,65.0
-10135,2018-07-02,Shipped,700,
-10147,2018-09-05,Shipped,635,
-10169,2018-11-04,Shipped,575,
-10181,2018-11-12,Shipped,567,
-10191,2018-11-20,Shipped,559,66.0
-10203,2018-12-02,Shipped,547,
-10225,2019-02-22,Shipped,465,67.0
-10238,2019-04-09,Shipped,419,
-10253,2019-06-01,Cancelled,366,
-10266,2019-07-06,Shipped,331,68.0
-10276,2019-08-02,Shipped,304,69.0
-10287,2019-08-30,Shipped,276,
-10300,2018-10-04,Shipped,606,70.0
-10310,2019-10-16,Shipped,229,
-10320,2019-11-03,Shipped,211,
-10363,2020-01-06,Shipped,147,71.0
-10389,2020-03-03,Shipped,90,
-10419,2020-05-17,Shipped,15,
-10117,2018-04-16,Shipped,777,
-10127,2018-06-03,Shipped,729,72.0
-10142,2018-08-08,Shipped,663,
-10153,2018-09-28,Shipped,612,
-10165,2018-10-22,Shipped,588,
-10176,2018-11-06,Shipped,573,
-10185,2018-11-14,Shipped,565,
-10196,2018-11-26,Shipped,553,
-10208,2019-01-02,Shipped,516,
-10220,2019-02-12,Shipped,475,73.0
-10231,2019-03-19,Shipped,440,74.0
-10247,2019-05-05,Shipped,393,
-10272,2019-07-20,Shipped,317,
-10282,2019-08-20,Shipped,286,
-10293,2019-09-09,Shipped,266,
-10306,2019-10-14,Shipped,231,75.0
-10314,2019-10-22,Shipped,223,76.0
-10336,2019-11-20,Shipped,194,
-10348,2019-11-01,Shipped,213,
-10371,2020-01-23,Shipped,130,
-10382,2020-02-17,Shipped,105,
-10413,2020-05-05,Shipped,27,
-10113,2018-03-26,Shipped,798,
-10216,2019-02-02,Shipped,485,
-10189,2018-11-18,Shipped,561,
-10224,2019-02-21,Shipped,466,
-10319,2019-11-03,Shipped,211,77.0
-10104,2018-01-31,Shipped,852,
-10230,2019-03-15,Shipped,444,
-10324,2019-11-05,Shipped,209,
-10358,2019-12-10,Shipped,174,
-10372,2020-01-26,Shipped,127,
-10170,2018-11-04,Shipped,575,
-10212,2019-01-16,Shipped,502,
-10376,2020-02-08,Shipped,114,78.0
-10349,2019-12-01,Shipped,183,
-10396,2020-03-23,Shipped,70,
-10377,2020-02-09,Shipped,113,
-10115,2018-04-04,Shipped,789,
-10141,2018-08-01,Shipped,670,
-10151,2018-09-21,Shipped,619,
-10184,2018-11-14,Shipped,565,79.0
-10195,2018-11-25,Shipped,554,
-10219,2019-02-10,Shipped,477,80.0
-10246,2019-05-05,Shipped,393,
-10271,2019-07-20,Shipped,317,
-10292,2019-09-08,Shipped,267,
-10412,2020-05-03,Shipped,29,
-10192,2018-11-20,Shipped,559,
-10239,2019-04-12,Shipped,416,
-10277,2019-08-04,Shipped,302,
-10321,2019-11-04,Shipped,210,
-10405,2020-04-14,Shipped,48,81.0
-10109,2018-03-10,Shipped,814,
-10136,2018-07-04,Shipped,698,
-10148,2018-09-11,Shipped,629,
-10161,2018-10-17,Shipped,593,
-10171,2018-11-05,Shipped,574,
-10204,2018-12-02,Shipped,547,
-10240,2019-04-13,Shipped,415,
-10278,2019-08-06,Shipped,300,82.0
-10301,2018-10-05,Shipped,605,83.0
-10331,2019-11-17,Shipped,197,
-10342,2019-11-24,Shipped,190,
-10356,2019-12-09,Shipped,175,
-10365,2020-01-07,Shipped,146,
-10390,2020-03-04,Shipped,89,
-10406,2020-04-15,Disputed,47,
-10102,2018-01-10,Shipped,873,
-10125,2018-05-21,Shipped,742,
-10139,2018-07-16,Shipped,686,
-10149,2018-09-12,Shipped,628,
-10173,2018-11-05,Shipped,574,84.0
-10182,2018-11-12,Shipped,567,
-10193,2018-11-21,Shipped,558,85.0
-10205,2018-12-03,Shipped,546,
-10227,2019-03-02,Shipped,457,
-10244,2019-04-29,Shipped,399,
-10256,2019-06-08,Shipped,359,
-10289,2019-09-03,Shipped,272,
-10332,2019-11-17,Shipped,197,
-10346,2019-11-29,Shipped,185,
-10380,2020-02-16,Shipped,106,
-10422,2020-05-30,In Process,2,
-10110,2018-03-18,Shipped,806,
-10123,2018-05-20,Shipped,743,
-10137,2018-07-10,Shipped,692,
-10172,2018-11-05,Shipped,574,
-10226,2019-02-26,Shipped,461,
-10241,2019-04-13,Shipped,415,
-10288,2019-09-01,Shipped,274,
-10311,2019-10-16,Shipped,229,
-10343,2019-11-24,Shipped,190,
-10367,2020-01-12,Resolved,141,
-10378,2020-02-10,Shipped,112,
-10407,2020-04-22,On Hold,40,
-10106,2018-02-17,Shipped,835,
-10131,2018-06-16,Shipped,716,86.0
-10198,2018-11-27,Shipped,552,
-10250,2019-05-11,Shipped,387,
-10262,2019-06-24,Cancelled,343,
-10274,2019-07-21,Shipped,316,
-10284,2019-08-21,Shipped,285,
-10296,2019-09-15,Shipped,260,87.0
-10327,2019-11-10,Resolved,204,
-10338,2019-11-22,Shipped,192,88.0
-10351,2019-12-03,Shipped,181,
-10386,2020-03-01,Resolved,92,
-10398,2020-03-30,Shipped,63,
-10416,2020-05-10,Shipped,22,
-10100,2018-01-06,Shipped,877,
-10124,2018-05-21,Shipped,742,
-10214,2019-01-26,Shipped,492,
-10302,2018-10-06,Shipped,604,
-10344,2019-11-25,Shipped,189,
-10379,2020-02-10,Shipped,112,
-10420,2020-05-29,In Process,3,
-10366,2020-01-10,Shipped,143,
-10303,2019-10-06,Shipped,239,
-10383,2020-02-22,Shipped,100,
-10101,2018-01-09,Shipped,874,
-10243,2019-04-26,Shipped,402,
-10409,2020-04-23,Shipped,39,
-10133,2018-06-27,Shipped,705,
-10235,2019-04-02,Shipped,426,
-10297,2019-09-16,Shipped,259,
-10353,2019-12-04,Shipped,180,
-10401,2020-04-03,On Hold,59,
-10255,2019-06-04,Shipped,363,
-10421,2020-05-29,In Process,3,
-10257,2019-06-14,Shipped,353,
-10423,2020-05-30,In Process,2,
-10269,2019-07-16,Shipped,321,
-10392,2020-03-10,Shipped,83,
-10130,2018-06-16,Shipped,716,89.0
-10128,2018-06-06,Shipped,726,
-10166,2018-10-21,Shipped,589,
-10177,2018-11-07,Shipped,572,
-10221,2019-02-18,Shipped,469,
-10232,2019-03-20,Shipped,439,
-10394,2020-03-15,Shipped,78,
-10326,2019-11-09,Shipped,205,
-10252,2019-05-26,Shipped,372,
-10265,2019-07-02,Shipped,335,
-10290,2019-09-07,Shipped,268,
-10323,2019-11-05,Shipped,209,
-10330,2019-11-16,Shipped,198,
-10355,2019-12-07,Shipped,177,
-10146,2018-09-03,Shipped,637,
-10264,2019-06-30,Shipped,337,
-10286,2019-08-28,Shipped,278,
-10249,2019-05-08,Shipped,390,
-10328,2019-11-12,Shipped,202,
-10415,2020-05-09,Disputed,23,
-10152,2018-09-25,Shipped,615,
-10213,2019-01-22,Shipped,496,
-10315,2019-10-29,Shipped,216,
-10267,2019-07-07,Shipped,330,
-10279,2019-08-09,Shipped,297,
-10158,2018-10-10,Shipped,600,
-10340,2019-11-24,Shipped,190,
-10345,2019-11-25,Shipped,189,
-10190,2018-11-19,Shipped,560,
-10368,2020-01-19,Shipped,134,
-10335,2019-11-19,Shipped,195,
-10154,2018-10-02,Shipped,608,
-10233,2019-03-29,Shipped,430,
-10385,2020-02-28,Shipped,94,
-10242,2019-04-20,Shipped,408,
-10408,2020-04-22,Shipped,40,
-10317,2019-11-02,Shipped,212,
-10387,2020-03-02,Shipped,91,
-10364,2020-01-06,Shipped,147,
-10116,2018-04-11,Shipped,782,
-10144,2018-08-13,Shipped,658,
-10156,2018-10-08,Shipped,602,
-10199,2018-12-01,Shipped,548,
-10397,2020-03-28,Shipped,65,
-10352,2019-12-03,Shipped,181,
-10118,2018-04-21,Shipped,772,
-10294,2019-09-10,Shipped,265,
+ORDERNUMBER,ORDERDATE,STATUS,CUSTOMERNAME,customerid
+10107,2018-02-24,Shipped,Land of Toys Inc.,1
+10121,2018-05-07,Shipped,Reims Collectables,2
+10134,2018-07-01,Shipped,Lyon Souveniers,3
+10145,2018-08-25,Shipped,Toys4GrownUps.com,4
+10168,2018-10-28,Shipped,Technics Stores Inc.,5
+10180,2018-11-11,Shipped,Daedalus Designs Imports,6
+10188,2018-11-18,Shipped,Herkku Gifts,7
+10211,2019-01-15,Shipped,Auto Canal Petit,8
+10223,2019-02-20,Shipped,"Australian Collectors, Co.",9
+10237,2019-04-05,Shipped,Vitachrome Inc.,10
+10251,2019-05-18,Shipped,Tekni Collectables Inc.,11
+10263,2019-06-28,Shipped,Gift Depot Inc.,12
+10275,2019-07-23,Shipped,La Rochelle Gifts,13
+10285,2019-08-27,Shipped,Marta's Replicas Co.,14
+10299,2019-09-30,Shipped,"Toys of Finland, Co.",15
+10309,2019-10-15,Shipped,Baane Mini Imports,16
+10318,2019-11-02,Shipped,Diecast Classics Inc.,17
+10329,2019-11-15,Shipped,Land of Toys Inc.,1
+10341,2019-11-24,Shipped,Salzburg Collectables,18
+10361,2019-12-17,Shipped,Souveniers And Things Co.,19
+10375,2020-02-03,Shipped,La Rochelle Gifts,13
+10388,2020-03-03,Shipped,FunGiftIdeas.com,20
+10403,2020-04-08,Shipped,"UK Collectables, Ltd.",21
+10417,2020-05-13,Disputed,Euro Shopping Channel,22
+10103,2018-01-29,Shipped,Baane Mini Imports,16
+10112,2018-03-24,Shipped,"Volvo Model Replicas, Co",23
+10126,2018-05-28,Shipped,"Corrida Auto Replicas, Ltd",24
+10140,2018-07-24,Shipped,Technics Stores Inc.,5
+10150,2018-09-19,Shipped,"Dragon Souveniers, Ltd.",25
+10163,2018-10-20,Shipped,Classic Legends Inc.,26
+10174,2018-11-06,Shipped,"Australian Gift Network, Co",27
+10183,2018-11-13,Shipped,"Classic Gift Ideas, Inc",28
+10194,2018-11-25,Shipped,"Saveley & Henriot, Co.",29
+10206,2018-12-05,Shipped,Canadian Gift Exchange Network,30
+10215,2019-01-29,Shipped,West Coast Collectables Co.,31
+10228,2019-03-10,Shipped,Cambridge Collectables Co.,32
+10245,2019-05-04,Shipped,Super Scale Inc.,33
+10258,2019-06-15,Shipped,"Tokyo Collectables, Ltd",34
+10270,2019-07-19,Shipped,Souveniers And Things Co.,19
+10280,2019-08-17,Shipped,Amica Models & Co.,35
+10291,2019-09-08,Shipped,Scandinavian Gift Ideas,36
+10304,2019-10-11,Shipped,Auto Assoc. & Cie.,37
+10312,2019-10-21,Shipped,Mini Gifts Distributors Ltd.,38
+10322,2019-11-04,Shipped,Online Diecast Creations Co.,39
+10347,2019-11-29,Shipped,"Australian Collectors, Co.",9
+10357,2019-12-10,Shipped,Mini Gifts Distributors Ltd.,38
+10369,2020-01-20,Shipped,Collectables For Less Inc.,40
+10391,2020-03-09,Shipped,"Anna's Decorations, Ltd",41
+10411,2020-05-01,Shipped,Quebec Home Shopping Network,42
+10424,2020-05-31,In Process,Euro Shopping Channel,22
+10120,2018-04-29,Shipped,"Australian Collectors, Co.",9
+10210,2019-01-12,Shipped,Osaka Souveniers Co.,43
+10236,2019-04-03,Shipped,Motor Mint Distributors Inc.,44
+10298,2019-09-27,Shipped,Atelier graphique,45
+10308,2019-10-15,Shipped,Mini Classics,46
+10339,2019-11-23,Shipped,"Tokyo Collectables, Ltd",34
+10374,2020-02-02,Shipped,"Australian Gift Network, Co",27
+10402,2020-04-07,Shipped,Auto Canal Petit,8
+10362,2020-01-05,Shipped,Technics Stores Inc.,5
+10105,2018-02-11,Shipped,Danish Wholesale Imports,47
+10119,2018-04-28,Shipped,Salzburg Collectables,18
+10129,2018-06-12,Shipped,"Stylish Desk Decors, Co.",48
+10143,2018-08-10,Shipped,Mini Creations Ltd.,49
+10155,2018-10-06,Shipped,"Toys of Finland, Co.",15
+10167,2018-10-23,Cancelled,Scandinavian Gift Ideas,36
+10178,2018-11-08,Shipped,Alpha Cognac,50
+10186,2018-11-14,Shipped,"Double Decker Gift Stores, Ltd",51
+10197,2018-11-26,Shipped,Enaco Distributors,52
+10222,2019-02-19,Shipped,Collectable Mini Designs Co.,53
+10248,2019-05-07,Cancelled,Land of Toys Inc.,1
+10261,2019-06-17,Shipped,Quebec Home Shopping Network,42
+10273,2019-07-21,Shipped,Petit Auto,54
+10283,2019-08-20,Shipped,"Royal Canadian Collectables, Ltd.",55
+10295,2019-09-10,Shipped,Gifts4AllAges.com,56
+10307,2019-10-14,Shipped,"Classic Gift Ideas, Inc",28
+10316,2019-11-01,Shipped,giftsbymail.co.uk,57
+10325,2019-11-05,Shipped,Baane Mini Imports,16
+10337,2019-11-21,Shipped,Classic Legends Inc.,26
+10350,2019-12-02,Shipped,Euro Shopping Channel,22
+10359,2019-12-15,Shipped,Reims Collectables,2
+10373,2020-01-31,Shipped,"Oulu Toy Supplies, Inc.",58
+10395,2020-03-17,Shipped,Lyon Souveniers,3
+10400,2020-04-01,Shipped,The Sharp Gifts Warehouse,59
+10414,2020-05-06,On Hold,Gifts4AllAges.com,56
+10114,2018-04-01,Shipped,"La Corne D'abondance, Co.",60
+10164,2018-10-21,Resolved,Mini Auto Werke,61
+10175,2018-11-06,Shipped,"Stylish Desk Decors, Co.",48
+10207,2018-12-09,Shipped,Diecast Collectables,62
+10217,2019-02-04,Shipped,Handji Gifts& Co,63
+10229,2019-03-11,Shipped,Mini Gifts Distributors Ltd.,38
+10259,2019-06-15,Shipped,Handji Gifts& Co,63
+10281,2019-08-19,Shipped,Diecast Classics Inc.,17
+10305,2019-10-13,Shipped,Marta's Replicas Co.,14
+10313,2019-10-22,Shipped,Canadian Gift Exchange Network,30
+10334,2019-11-19,On Hold,"Volvo Model Replicas, Co",23
+10370,2020-01-20,Shipped,"Anna's Decorations, Ltd",41
+10425,2020-05-31,In Process,La Rochelle Gifts,13
+10108,2018-03-03,Shipped,Cruz & Sons Co.,64
+10122,2018-05-08,Shipped,Marseille Mini Autos,65
+10135,2018-07-02,Shipped,Mini Gifts Distributors Ltd.,38
+10147,2018-09-05,Shipped,Collectables For Less Inc.,40
+10169,2018-11-04,Shipped,"Anna's Decorations, Ltd",41
+10181,2018-11-12,Shipped,Herkku Gifts,7
+10191,2018-11-20,Shipped,"Toms Spezialitten, Ltd",66
+10203,2018-12-02,Shipped,Euro Shopping Channel,22
+10225,2019-02-22,Shipped,"Vida Sport, Ltd",67
+10238,2019-04-09,Shipped,Danish Wholesale Imports,47
+10253,2019-06-01,Cancelled,"UK Collectables, Ltd.",21
+10266,2019-07-06,Shipped,L'ordine Souveniers,68
+10276,2019-08-02,Shipped,Online Mini Collectables,69
+10287,2019-08-30,Shipped,"Vida Sport, Ltd",67
+10300,2018-10-04,Shipped,"Blauer See Auto, Co.",70
+10310,2019-10-16,Shipped,"Toms Spezialitten, Ltd",66
+10320,2019-11-03,Shipped,"Volvo Model Replicas, Co",23
+10363,2020-01-06,Shipped,Suominen Souveniers,71
+10389,2020-03-03,Shipped,Scandinavian Gift Ideas,36
+10419,2020-05-17,Shipped,Salzburg Collectables,18
+10117,2018-04-16,Shipped,"Dragon Souveniers, Ltd.",25
+10127,2018-06-03,Shipped,Muscle Machine Inc,72
+10142,2018-08-08,Shipped,Mini Gifts Distributors Ltd.,38
+10153,2018-09-28,Shipped,Euro Shopping Channel,22
+10165,2018-10-22,Shipped,"Dragon Souveniers, Ltd.",25
+10176,2018-11-06,Shipped,L'ordine Souveniers,68
+10185,2018-11-14,Shipped,Mini Creations Ltd.,49
+10196,2018-11-26,Shipped,Super Scale Inc.,33
+10208,2019-01-02,Shipped,"Saveley & Henriot, Co.",29
+10220,2019-02-12,Shipped,"Clover Collections, Co.",73
+10231,2019-03-19,Shipped,CAF Imports,74
+10247,2019-05-05,Shipped,Suominen Souveniers,71
+10272,2019-07-20,Shipped,Diecast Classics Inc.,17
+10282,2019-08-20,Shipped,Mini Gifts Distributors Ltd.,38
+10293,2019-09-09,Shipped,Amica Models & Co.,35
+10306,2019-10-14,Shipped,"AV Stores, Co.",75
+10314,2019-10-22,Shipped,Heintze Collectables,76
+10336,2019-11-20,Shipped,"La Corne D'abondance, Co.",60
+10348,2019-11-01,Shipped,"Corrida Auto Replicas, Ltd",24
+10371,2020-01-23,Shipped,Mini Gifts Distributors Ltd.,38
+10382,2020-02-17,Shipped,Mini Gifts Distributors Ltd.,38
+10413,2020-05-05,Shipped,Gift Depot Inc.,12
+10113,2018-03-26,Shipped,Mini Gifts Distributors Ltd.,38
+10216,2019-02-02,Shipped,Auto Assoc. & Cie.,37
+10189,2018-11-18,Shipped,Toys4GrownUps.com,4
+10224,2019-02-21,Shipped,Daedalus Designs Imports,6
+10319,2019-11-03,Shipped,Microscale Inc.,77
+10104,2018-01-31,Shipped,Euro Shopping Channel,22
+10230,2019-03-15,Shipped,"Blauer See Auto, Co.",70
+10324,2019-11-05,Shipped,Vitachrome Inc.,10
+10358,2019-12-10,Shipped,Euro Shopping Channel,22
+10372,2020-01-26,Shipped,"Tokyo Collectables, Ltd",34
+10170,2018-11-04,Shipped,Mini Auto Werke,61
+10212,2019-01-16,Shipped,Euro Shopping Channel,22
+10376,2020-02-08,Shipped,Boards & Toys Co.,78
+10349,2019-12-01,Shipped,Muscle Machine Inc,72
+10396,2020-03-23,Shipped,Mini Gifts Distributors Ltd.,38
+10377,2020-02-09,Shipped,"Toys of Finland, Co.",15
+10115,2018-04-04,Shipped,Classic Legends Inc.,26
+10141,2018-08-01,Shipped,Suominen Souveniers,71
+10151,2018-09-21,Shipped,"Oulu Toy Supplies, Inc.",58
+10184,2018-11-14,Shipped,"Iberia Gift Imports, Corp.",79
+10195,2018-11-25,Shipped,Mini Classics,46
+10219,2019-02-10,Shipped,Signal Collectibles Ltd.,80
+10246,2019-05-05,Shipped,Euro Shopping Channel,22
+10271,2019-07-20,Shipped,Mini Gifts Distributors Ltd.,38
+10292,2019-09-08,Shipped,Land of Toys Inc.,1
+10412,2020-05-03,Shipped,Euro Shopping Channel,22
+10192,2018-11-20,Shipped,Online Diecast Creations Co.,39
+10239,2019-04-12,Shipped,"Oulu Toy Supplies, Inc.",58
+10277,2019-08-04,Shipped,"Dragon Souveniers, Ltd.",25
+10321,2019-11-04,Shipped,FunGiftIdeas.com,20
+10405,2020-04-14,Shipped,Mini Caravy,81
+10109,2018-03-10,Shipped,Motor Mint Distributors Inc.,44
+10136,2018-07-04,Shipped,Alpha Cognac,50
+10148,2018-09-11,Shipped,"Anna's Decorations, Ltd",41
+10161,2018-10-17,Shipped,Heintze Collectables,76
+10171,2018-11-05,Shipped,Quebec Home Shopping Network,42
+10204,2018-12-02,Shipped,Muscle Machine Inc,72
+10240,2019-04-13,Shipped,Osaka Souveniers Co.,43
+10278,2019-08-06,Shipped,Signal Gift Stores,82
+10301,2018-10-05,Shipped,"Norway Gifts By Mail, Co.",83
+10331,2019-11-17,Shipped,Motor Mint Distributors Inc.,44
+10342,2019-11-24,Shipped,"Australian Collectors, Co.",9
+10356,2019-12-09,Shipped,Lyon Souveniers,3
+10365,2020-01-07,Shipped,Mini Creations Ltd.,49
+10390,2020-03-04,Shipped,Mini Gifts Distributors Ltd.,38
+10406,2020-04-15,Disputed,Danish Wholesale Imports,47
+10102,2018-01-10,Shipped,Vitachrome Inc.,10
+10125,2018-05-21,Shipped,"Australian Collectors, Co.",9
+10139,2018-07-16,Shipped,Souveniers And Things Co.,19
+10149,2018-09-12,Shipped,Signal Collectibles Ltd.,80
+10173,2018-11-05,Shipped,Rovelli Gifts,84
+10182,2018-11-12,Shipped,Mini Gifts Distributors Ltd.,38
+10193,2018-11-21,Shipped,"Australian Collectables, Ltd",85
+10205,2018-12-03,Shipped,Euro Shopping Channel,22
+10227,2019-03-02,Shipped,"Saveley & Henriot, Co.",29
+10244,2019-04-29,Shipped,Euro Shopping Channel,22
+10256,2019-06-08,Shipped,Danish Wholesale Imports,47
+10289,2019-09-03,Shipped,Herkku Gifts,7
+10332,2019-11-17,Shipped,"AV Stores, Co.",75
+10346,2019-11-29,Shipped,Signal Gift Stores,82
+10380,2020-02-16,Shipped,Euro Shopping Channel,22
+10422,2020-05-30,In Process,Diecast Classics Inc.,17
+10110,2018-03-18,Shipped,"AV Stores, Co.",75
+10123,2018-05-20,Shipped,Atelier graphique,45
+10137,2018-07-10,Shipped,Reims Collectables,2
+10172,2018-11-05,Shipped,Gift Depot Inc.,12
+10226,2019-02-26,Shipped,Collectable Mini Designs Co.,53
+10241,2019-04-13,Shipped,Mini Caravy,81
+10288,2019-09-01,Shipped,Handji Gifts& Co,63
+10311,2019-10-16,Shipped,Euro Shopping Channel,22
+10343,2019-11-24,Shipped,Reims Collectables,2
+10367,2020-01-12,Resolved,Toys4GrownUps.com,4
+10378,2020-02-10,Shipped,Euro Shopping Channel,22
+10407,2020-04-22,On Hold,The Sharp Gifts Warehouse,59
+10106,2018-02-17,Shipped,Rovelli Gifts,84
+10131,2018-06-16,Shipped,Gift Ideas Corp.,86
+10198,2018-11-27,Shipped,Cruz & Sons Co.,64
+10250,2019-05-11,Shipped,The Sharp Gifts Warehouse,59
+10262,2019-06-24,Cancelled,Euro Shopping Channel,22
+10274,2019-07-21,Shipped,Collectables For Less Inc.,40
+10284,2019-08-21,Shipped,"Norway Gifts By Mail, Co.",83
+10296,2019-09-15,Shipped,"Bavarian Collectables Imports, Co.",87
+10327,2019-11-10,Resolved,Danish Wholesale Imports,47
+10338,2019-11-22,Shipped,Royale Belge,88
+10351,2019-12-03,Shipped,"Stylish Desk Decors, Co.",48
+10386,2020-03-01,Resolved,Euro Shopping Channel,22
+10398,2020-03-30,Shipped,Reims Collectables,2
+10416,2020-05-10,Shipped,L'ordine Souveniers,68
+10100,2018-01-06,Shipped,Online Diecast Creations Co.,39
+10124,2018-05-21,Shipped,Signal Gift Stores,82
+10214,2019-01-26,Shipped,"Corrida Auto Replicas, Ltd",24
+10302,2018-10-06,Shipped,"UK Collectables, Ltd.",21
+10344,2019-11-25,Shipped,Marseille Mini Autos,65
+10379,2020-02-10,Shipped,Euro Shopping Channel,22
+10420,2020-05-29,In Process,Souveniers And Things Co.,19
+10366,2020-01-10,Shipped,Royale Belge,88
+10303,2019-10-06,Shipped,"Iberia Gift Imports, Corp.",79
+10383,2020-02-22,Shipped,Euro Shopping Channel,22
+10101,2018-01-09,Shipped,"Blauer See Auto, Co.",70
+10243,2019-04-26,Shipped,Diecast Collectables,62
+10409,2020-04-23,Shipped,Handji Gifts& Co,63
+10133,2018-06-27,Shipped,Euro Shopping Channel,22
+10235,2019-04-02,Shipped,"Royal Canadian Collectables, Ltd.",55
+10297,2019-09-16,Shipped,"Clover Collections, Co.",73
+10353,2019-12-04,Shipped,Gift Ideas Corp.,86
+10401,2020-04-03,On Hold,Tekni Collectables Inc.,11
+10255,2019-06-04,Shipped,Mini Caravy,81
+10421,2020-05-29,In Process,Mini Gifts Distributors Ltd.,38
+10257,2019-06-14,Shipped,The Sharp Gifts Warehouse,59
+10423,2020-05-30,In Process,Petit Auto,54
+10269,2019-07-16,Shipped,Salzburg Collectables,18
+10392,2020-03-10,Shipped,Mini Auto Werke,61
+10130,2018-06-16,Shipped,Auto-Moto Classics Inc.,89
+10128,2018-06-06,Shipped,Euro Shopping Channel,22
+10166,2018-10-21,Shipped,FunGiftIdeas.com,20
+10177,2018-11-07,Shipped,CAF Imports,74
+10221,2019-02-18,Shipped,Petit Auto,54
+10232,2019-03-20,Shipped,giftsbymail.co.uk,57
+10394,2020-03-15,Shipped,Euro Shopping Channel,22
+10326,2019-11-09,Shipped,"Volvo Model Replicas, Co",23
+10252,2019-05-26,Shipped,Auto Canal Petit,8
+10265,2019-07-02,Shipped,"Australian Collectables, Ltd",85
+10290,2019-09-07,Shipped,Auto-Moto Classics Inc.,89
+10323,2019-11-05,Shipped,"Blauer See Auto, Co.",70
+10330,2019-11-16,Shipped,Cruz & Sons Co.,64
+10355,2019-12-07,Shipped,Euro Shopping Channel,22
+10146,2018-09-03,Shipped,Gift Ideas Corp.,86
+10264,2019-06-30,Shipped,Gifts4AllAges.com,56
+10286,2019-08-28,Shipped,"La Corne D'abondance, Co.",60
+10249,2019-05-08,Shipped,Cambridge Collectables Co.,32
+10328,2019-11-12,Shipped,Rovelli Gifts,84
+10415,2020-05-09,Disputed,"Australian Collectables, Ltd",85
+10152,2018-09-25,Shipped,"Australian Gift Network, Co",27
+10213,2019-01-22,Shipped,"Double Decker Gift Stores, Ltd",51
+10315,2019-10-29,Shipped,La Rochelle Gifts,13
+10267,2019-07-07,Shipped,Muscle Machine Inc,72
+10279,2019-08-09,Shipped,Euro Shopping Channel,22
+10158,2018-10-10,Shipped,Baane Mini Imports,16
+10340,2019-11-24,Shipped,Enaco Distributors,52
+10345,2019-11-25,Shipped,Atelier graphique,45
+10190,2018-11-19,Shipped,Euro Shopping Channel,22
+10368,2020-01-19,Shipped,Mini Gifts Distributors Ltd.,38
+10335,2019-11-19,Shipped,Mini Gifts Distributors Ltd.,38
+10154,2018-10-02,Shipped,Boards & Toys Co.,78
+10233,2019-03-29,Shipped,Tekni Collectables Inc.,11
+10385,2020-02-28,Shipped,Mini Gifts Distributors Ltd.,38
+10242,2019-04-20,Shipped,Microscale Inc.,77
+10408,2020-04-22,Shipped,"Tokyo Collectables, Ltd",34
+10317,2019-11-02,Shipped,Technics Stores Inc.,5
+10387,2020-03-02,Shipped,"Dragon Souveniers, Ltd.",25
+10364,2020-01-06,Shipped,Marseille Mini Autos,65
+10116,2018-04-11,Shipped,Royale Belge,88
+10144,2018-08-13,Shipped,Royale Belge,88
+10156,2018-10-08,Shipped,Euro Shopping Channel,22
+10199,2018-12-01,Shipped,West Coast Collectables Co.,31
+10397,2020-03-28,Shipped,Alpha Cognac,50
+10352,2019-12-03,Shipped,Auto-Moto Classics Inc.,89
+10118,2018-04-21,Shipped,Enaco Distributors,52
+10294,2019-09-10,Shipped,Online Mini Collectables,69
